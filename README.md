@@ -128,5 +128,10 @@ Any questions let us know
       <img src="https://user-images.githubusercontent.com/48680107/90428369-801eff80-e0e1-11ea-98b1-742aa741b7cc.png" />
       <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/59">(:100: give your vote)</a></p>
     </td>
+    <td align="center">
+      <p><a href="https://github.com/vladiggeorgiev">Vladimir Georgiev</a></p>
+      <img src="https://user-images.githubusercontent.com/3617141/90437163-91184280-e0da-11ea-9ad0-5beafad4cd15.PNG" />
+      <p><a href="https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/61">(:100: give your vote)</a></p>
+    </td>
   </tr>
 </table>
